@@ -38,3 +38,20 @@ Displays the top 100 most played songs.
 - Using two different sizes of artwork instead of using a single image since it was not high quality.
   - One thumbnail to show in list screen
   - One Big artwork to show in detail screen
+  
+  
+### Videos
+https://user-images.githubusercontent.com/61079/190135923-2692f310-b635-4b90-a0d9-adede5b867c8.mov
+
+
+
+https://user-images.githubusercontent.com/61079/190135962-38025ce6-9b84-4ae6-b6fc-d53cb15fb49d.mov
+
+
+
+https://user-images.githubusercontent.com/61079/190135982-f7ad8b15-4647-4f89-aab7-b9ce8381348e.mov
+
+
+
+https://user-images.githubusercontent.com/61079/190136005-83fb8876-35a8-4836-8931-9b15cdfb0da5.mov
+
