@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlanetM</string>
+    <string name="retry">Retry</string>
+    <string name="detail_title"> Top 100 Albums</string>
+    <string name="url_button_title">Visit The Album</string>
+    <string name="relase_info">Released %1$s\n%2$s</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="invalid_album_id">Invalid Album Id</string>
+</resources>
