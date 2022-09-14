@@ -39,7 +39,9 @@ Displays the top 100 most played songs.
   - One thumbnail to show in list screen
   - One Big artwork to show in detail screen
   
-  
+### Apk
+- Apk file to install directly on the device is in `apk` folder 
+
 ### Videos
 https://user-images.githubusercontent.com/61079/190135923-2692f310-b635-4b90-a0d9-adede5b867c8.mov
 
